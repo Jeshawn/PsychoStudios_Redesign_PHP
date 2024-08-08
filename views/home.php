@@ -18,7 +18,7 @@
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
   <!-- Theme CSS -->
-  <link href="css/main.css" rel="stylesheet">
+  <link href="/public/css/main.css" rel="stylesheet">
     <!-- Bootstrap cdn -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" 
         rel="stylesheet" 
